@@ -1,0 +1,26 @@
+{
+    "session_logs": {
+            "Chemistry reading-10149123098": {
+                "name": "Chemistry reading",
+                "chat_logs": [
+                    {
+                        "sender": "user",
+                        "text": "What was the main character's name?"
+                    },
+                    {
+                        "sender": "ai",
+                        "text": "Bobby Shmurda"
+                    }
+                ],
+                "has_associated_text": true,
+                "associated_text": "huckleberry_fin.pdf-10149123098", 
+                "last_data_access": "11-25-2020"
+            }
+        },
+    "associated_text": {
+        "huckleberry_fin.pdf-10149123098": {
+            "id":"huckleberry_fin.pdf-10149123098",
+            "text_body": "test text for now"
+         }
+    }
+}
