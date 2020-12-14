@@ -21,7 +21,7 @@
     "associated_text": {
         "huckleberry_fin.pdf-10149123098": {
             "id":"huckleberry_fin.pdf-10149123098",
-            "text_body": "test text for now This approach guarantees that all items are processed before invoking the stuff callback. You need to use a counter that gets updated in the callback. Depending on the value of the index parameter does not provide the same guarantee, because the order of return of the asynchronous operations is not guaranteed."
+            "text_body": "test text for"
          }
     }
 }
